@@ -1,0 +1,46 @@
+{
+  "what":{
+    "name":{
+      "place":{},
+      "person":{},
+      "animal":{},
+      "thing":{}
+    },
+    "weather":10000,
+    "time":10001,
+    "sum":10010,
+    "add":10010,
+    "addition":10010,
+    "total":10010,
+    "difference":10011,
+    "multiplied":10012,
+    "times":10012,
+    "divide":10013,
+    "by":10013,
+    "square root":10020,
+    "square":10021,
+    "rise to":10021,
+    "to the power":10021,
+    "exponential":10022
+  },
+  "why":{
+  },
+  "who":{
+
+  },
+  "how":{
+    "you":{},
+    "weather":10000
+  },
+  "how's":{
+    "you":{},
+    "i":{},
+    "weather":10000
+  },
+  "when":{
+
+  },
+  "where":{
+
+  }
+}
